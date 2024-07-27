@@ -1,7 +1,3 @@
-Berikut adalah README untuk tools MariaDB dengan script .bat pada Windows CMD dalam bahasa Indonesia:
-
----
-
 # Alat MariaDB untuk Windows
 
 Sekumpulan alat command-line untuk mengelola layanan MariaDB Anda di Windows. Mudah memulai dan menghentikan server MariaDB menggunakan skrip batch sederhana.
